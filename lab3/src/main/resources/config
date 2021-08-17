@@ -1,0 +1,5 @@
+serverPort = 8189
+histroryMessages = 5
+messagesHandlerType  = SERIALISATION
+timeout = 300
+maxClients = 100

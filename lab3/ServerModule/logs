@@ -1,0 +1,10 @@
+2020-06-30 15:07:13,296 [main] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - Server is working.
+2020-06-30 15:07:22,373 [Thread-0] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - New client connected: Олеся
+2020-06-30 15:07:27,112 [Thread-0] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - Message from client Олеся: Привет!
+2020-06-30 15:07:32,498 [Thread-1] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - New client connected: Ира
+2020-06-30 15:07:37,735 [Thread-1] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - Message from client Ира: Хей хей!
+2020-06-30 15:07:43,473 [Thread-2] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - New client connected: Арина
+2020-06-30 15:07:47,117 [Thread-0] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - Server disconnected cleint Олеся because of timeout.
+2020-06-30 15:07:48,350 [Thread-2] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - Message from client Арина: всем привет!
+2020-06-30 15:07:57,736 [Thread-1] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - Server disconnected cleint Ира because of timeout.
+2020-06-30 15:08:08,352 [Thread-2] INFO  ru.nsu.sokolova.lab3.consts.server.ChatServer - Server disconnected cleint Арина because of timeout.
