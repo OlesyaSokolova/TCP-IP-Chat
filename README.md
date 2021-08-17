@@ -24,4 +24,4 @@
 DocumentBuilderFactory.newInstance().newDocumentBuilder().parse()
 * Сериализация/десериализация объекта выполняется через классы ObjectInputStream и ObjectOutputStream
 
-![alt text](xmlProtocol.pdf "Protocol")
+![alt text](xmlProtocol.png "Protocol")
